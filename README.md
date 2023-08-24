@@ -7,5 +7,3 @@ Don't mind my graph, for nearly all of my projects over the last twenty years, I
 Check out more @ [L422Y.COM](https://l422y.com)
 
 # 💻 😅
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l422y&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
