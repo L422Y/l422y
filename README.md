@@ -5,6 +5,6 @@ I've been doing pretty much everything computer related most of my life and have
 Don't mind my graph, for nearly all of my projects I've used self-hosted, private repositories on local network servers (git, subversion, mercurial)
 
 
-Check out more @ [summarized.bio/l422y](https://summarized.bio/l422y)
+Check out more @ [summarized.bio/~l422y](https://summarized.bio/~l422y)
 
 # 💻 😅
