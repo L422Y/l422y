@@ -1,4 +1,4 @@
-<a href="https://summarized.bio/l422y"><img src="https://summarized.bio/render/l422y"></a>
+<a href="https://summarized.bio/~l422y"><img src="https://summarized.bio/render/l422y"></a>
 
 I've been doing pretty much everything computer related most of my life and have over twenty years of real-world experience in software, web development, interactive, automation, performance optimization, and user experience.
 
